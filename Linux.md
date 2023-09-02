@@ -12,10 +12,7 @@ Welcome to my Linux journey! I'm here to share my first experiences with Linux .
 6. [Building Paths with `mkdir`](#building-paths-with-mkdir)
 7. [The Power of Deletion: `rm`](#the-power-of-deletion-rm)
 8. [Writing with `nano`](#writing-with-nano)
-9. [The Sleuth: `grep`](#the-sleuth-grep)
-10. [Unveiling Processes with `ps`](#unveiling-processes-with-ps)
-11. [Mastering Manuals with `man`](#mastering-manuals-with-man)
-12. [Conclusion](#conclusion)
+9. [Conclusion](#conclusion)
 
 ---
 
