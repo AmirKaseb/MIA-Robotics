@@ -16,7 +16,6 @@ This branch contains the materials and documentation for Task 2, which covers Ba
 
 Here, you can access the content and code for Task 3, providing an introduction to Embedded Systems.
 
-[Link to Branch 3](link-to-branch-3)
 
 ## Task 4: Object-Oriented Programming (OOP) and Machine Learning (ML) (Branch 4)
 
