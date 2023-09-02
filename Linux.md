@@ -31,7 +31,6 @@ The `ls` command opened the door to the Linux terminal for me. It's where I bega
 - To see the contents of a directory, I simply typed `ls`.
 - As I got more comfortable, I discovered options like `-l`, `-a`, and `-h`.
 
-[Read More](ls.md)
 
 ---
 
@@ -41,7 +40,6 @@ Understanding where I was in the vast Linux file system was a revelation, thanks
 
 - Just one command, `pwd`, and I knew my present working directory.
 
-[Read More](pwd.md)
 
 ---
 
@@ -51,7 +49,6 @@ The `cd` command became my compass, helping me navigate through directories effo
 
 - I could leap from one directory to another with `cd [directory]`.
 
-[Read More](cd.md)
 
 ---
 
@@ -61,7 +58,7 @@ Creating empty files seemed like magic when I learned about the `touch` command.
 
 - All it took was `touch [filename]` to bring a file to life.
 
-[Read More](touch.md)
+
 
 ---
 
@@ -71,7 +68,7 @@ Creating directories with `mkdir` was like building my own path in the Linux wil
 
 - I could craft new directories with a simple `mkdir [directory]`.
 
-[Read More](mkdir.md)
+
 
 ---
 
@@ -81,7 +78,7 @@ Learning how to delete files and directories using `rm` was both thrilling and a
 
 - `rm [filename]` made files disappear, and `rm -r [directory]` was my ticket to directory destruction.
 
-[Read More](rm.md)
+
 
 ---
 
@@ -91,37 +88,8 @@ My Linux journey involved some writing, and `nano` was my trusty companion.
 
 - I could open and edit files with ease using `nano [filename]`.
 
-[Read More](nano.md)
 
----
 
-## The Sleuth: `grep`
-
-When I needed to find something within files, the `grep` command was my detective tool.
-
-- `grep [pattern] [filename]` helped me uncover hidden treasures of text.
-
-[Read More](grep.md)
-
----
-
-## Unveiling Processes with `ps`
-
-The `ps` command unveiled the secret world of running processes.
-
-- A simple `ps` command revealed the running processes on my Linux machine.
-
-[Read More](ps.md)
-
----
-
-## Mastering Manuals with `man`
-
-The `man` command was like a library at my fingertips, providing access to invaluable documentation.
-
-- All I had to do was type `man [command]` to explore manual pages.
-
-[Read More](man.md)
 
 ---
 
