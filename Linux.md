@@ -1,4 +1,4 @@
-# My Linux Journey: A Beginner's Perspective
+# My Linux Journey: 
 
 Welcome to my Linux journey! I'm here to share my first experiences with Linux .
 
